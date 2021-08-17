@@ -1,0 +1,10 @@
+.container {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#number_product {
+    color: red;
+}
